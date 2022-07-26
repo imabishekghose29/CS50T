@@ -1,0 +1,54 @@
+.container {.
+  display: flex;  
+  flex-flow: row wrap;
+  font-weight: bold; 
+  padding: 30px;
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+}
+
+.column { 
+  padding: 20px;
+  flex: 1 0;
+  color: #c0c0c0
+}
+
+
+img {
+  align: center;
+  width: 300x;
+  height: 300px;
+}
+
+.footer {
+  text-align: center;
+  margin: 20px;
+  color: #c0c0c0;
+}
+
+.title {
+  color: #c0c0c0;
+  font-weight: bold; 
+}
+
+.abhishek {
+  display: flex;  
+  flex-flow: row wrap;
+  font-weight: normal;
+  padding: 30px;
+  text-align: center;
+  }
+  
+  body {
+    background-image: url("2.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  .abhay {
+    color:#c0c0c0
+  }
